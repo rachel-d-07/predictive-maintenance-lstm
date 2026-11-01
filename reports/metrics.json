@@ -1,0 +1,33 @@
+{
+  "data_source": "NASA C-MAPSS (real data)",
+  "n_test_engines": 100,
+  "rul": {
+    "mae": 10.403846988677978,
+    "rmse": 13.906517328376871,
+    "r2": 0.8795721165012392,
+    "nasa_score": 267.8495430306284
+  },
+  "baseline_mean_predictor": {
+    "mae": 34.83,
+    "rmse": 41.94179565195834
+  },
+  "failure_classification": {
+    "horizon_cycles": 30,
+    "threshold": 0.5,
+    "precision": 0.9523809523809523,
+    "recall": 0.8,
+    "f1": 0.8695652173913043,
+    "accuracy": 0.94,
+    "n_failing_engines": 25,
+    "confusion_matrix": [
+      [
+        74,
+        1
+      ],
+      [
+        5,
+        20
+      ]
+    ]
+  }
+}
