@@ -384,8 +384,14 @@ predictive-maintenance-lstm/
 ## Author
 
 **Rachel D'souza**
+
 MSc Artificial Intelligence and Machine Learning, MIT-ADT University, Pune
 GitHub:(https://github.com/rachel-d-07) | LinkedIn:https://www.linkedin.com/in/rachel-dsouza07
+
+**Gauri Jadhav**
+
+MSc Artificial Intelligence and Machine Learning, MIT-ADT University, Pune
+LinkedIn: https://www.linkedin.com/in/gaurijadhav06
 
 ## Acknowledgements and citation
 
